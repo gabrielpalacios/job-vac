@@ -1,5 +1,6 @@
 Job Vacancy Application
 =======================
+Adaptacion Grupo Ingenieria de Software 2016
 
 [![Build Status](https://snap-ci.com/nicopaez/job-vacancy/branch/develop/build_image)](https://snap-ci.com/nicopaez/job-vacancy/branch/develop)
 
@@ -16,3 +17,4 @@ Some conventions to work on it:
 * Add descriptive commits messages in English to every commit
 * Write code and comments in English
 * Use REST routes
+
